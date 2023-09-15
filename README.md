@@ -3,7 +3,7 @@
 ## About me
 
 I am passionate for teaching and studying! I'm very happy that you are here on my website! Feel free to navigate! 
-![img](https://github.com/amandalemette/amandalemette.github.io/blob/main/images/115259-OP18JO-207.jpg?raw=true | width=100)
+![img](https://github.com/amandalemette/amandalemette.github.io/blob/main/images/115259-OP18JO-207.jpg?raw=true | width=30)
 
 
 ### teste 3
