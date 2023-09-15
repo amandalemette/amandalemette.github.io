@@ -1,7 +1,8 @@
-# amandalemette.github.io
+# Amanda Lemette
 
-## teste 1
+## About me
 
-### teste 2
+I am passionate for teaching and studying! I'm very happy that you are here on my website! Feel free to navigate! 
+
 
 ### teste 3
