@@ -1,40 +1,48 @@
----
-title: About
----
-  
 <!DOCTYPE html>
-<html>
-  
+<html lang="pt-br">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Amanda Lemette</title>
-  <style>
-    nav {
-      display: flex;
-      justify-content: center;
-    }
-    nav {
-      position: sticky;
-      top: 0;
-    }
-  </style>
+
+  <link rel="stylesheet" href="style.css">
 </head>
-
-<body>  
-@include('_layouts/default')  
-<p>I am passionate for teaching and studying! I'm very happy that you are here on my website!</p> 
-<img align='right' width= '80' src='images/115259-OP18JO-207.jpg'> 
-<p>Feel free to navigate!</p>
-
-
-- <h2 id="aula1"><a href="teaching/index">Material da Aula 1</a></h2>
+<body>
 
   <nav>
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="/teaching">Teaching</a></li>
-      <li><a href="/research">Research</a></li>
-      <li><a href="/cv">CV</a></li>
-      <li><a href="/github">GitHub</a></li>
-    </ul>
+    <a href="#">Home</a>
+    <a href="#">Teaching</a>
+    <a href="#">Research</a>
   </nav>
 
+  <main>
+    <h1>Olá, meu nome é Amanda Lemette!</h1>
+    <p>Eu sou uma desenvolvedora de software e educadora.</p>
+    <p>Este é o meu site pessoal.</p>
+  </main>
+
+</body>
+</html>
+
+body {
+  background-color: #fff;
+}
+
+nav {
+  background-color: #000;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+main {
+  padding: 20px;
+}
